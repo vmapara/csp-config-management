@@ -1,0 +1,5 @@
+# creates namespace named "git-created"
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: git-created
